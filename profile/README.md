@@ -5,7 +5,7 @@
   <p align="center">
     Modpacks, mods, and other tools for modern Minecraft versions and loaders
     <br />
-    <a href="https://github.com/orgs/skywardmc/repositories">Repositories</a>
+    <a href="https://github.com/orgs/skywardmc/repositories?q=&sort=stargazers">Repositories</a>
     ·
     <a href="https://github.com/orgs/skywardmc/people">People</a>
   </p>
