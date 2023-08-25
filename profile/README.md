@@ -8,6 +8,8 @@
     <a href="https://github.com/orgs/skywardmc/repositories?q=&sort=stargazers">Repositories</a>
     ·
     <a href="https://github.com/orgs/skywardmc/people">People</a>
+    ·
+    <a href="https://github.com/orgs/skywardmc/discussions">Discuss</a>
   </p>
 </div>
 
