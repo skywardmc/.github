@@ -1,5 +1,5 @@
 <div align=center>
-  <img height="196px" src="https://github.com/skywardmc/.github/assets/42325132/67482432-b609-43ae-be2b-269218d0ec90">
+  <img height="196px" alt="Banner for Skyward with logo and name" src="https://raw.githubusercontent.com/skywardmc/art/main/skyward/banner.png">
   <br />
   <br />
   <p align="center">
