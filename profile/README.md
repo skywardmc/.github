@@ -19,7 +19,7 @@ We're an organization that develops many popular Minecraft modding related proje
 ### Minecraft mods, modpacks, tools, etc
 - [adrenaline](https://github.com/skywardmc/adrenaline) - performance modpack - [@intergrav](https://github.com/intergrav)
 - [additive](https://github.com/skywardmc/additive) - OptiFine alternative modpack - [@intergrav](https://github.com/intergrav)
-- [deckcraft](https://github.com/skywardmc/deckcraft) - modpack designed for Valve's Steam Deck - [@intergrav](https://github.com/intergrav)
+- [deckcraft](https://github.com/skywardmc/deckcraft) - modpack designed for Valve's Steam Deck - [@intergrav](https://github.com/intergrav), looking for maintainers
 - [adrenaserver](https://github.com/skywardmc/adrenaserver) - server-side performance modpack - [@intergrav](https://github.com/intergrav), [@getchoo](https://github.com/getchoo)
 - [threadtweak](https://github.com/skywardmc/threadtweak) - mod to improve and tweak thread scheduling - [@getchoo](https://github.com/getchoo)
 - [additive-installer](https://github.com/skywardmc/additive-installer) - standalone installer for Additive and Adrenaline - [@gaming32](https://github.com/gaming32)
