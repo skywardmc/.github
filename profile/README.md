@@ -24,6 +24,6 @@ We're an organization that develops many popular Minecraft modding related proje
 - [threadtweak](https://github.com/skywardmc/threadtweak) - mod to improve and tweak thread scheduling - [@getchoo](https://github.com/getchoo)
 - [additive-installer](https://github.com/skywardmc/additive-installer) - standalone installer for Additive and Adrenaline - [@gaming32](https://github.com/gaming32)
 ### Other things
-- [additive-docs](https://github.com/skywardmc/additive-docs) - Website for Additive - [@intergrav](https://github.com/intergrav)
+- [additive-docs](https://github.com/skywardmc/additive-docs) - website for Additive - [@intergrav](https://github.com/intergrav)
 - [art](https://github.com/skywardmc/art) - branding assets for Skyward and it's projects - [@intergrav](https://github.com/intergrav)
 - [.github](https://github.com/skywardmc/.github) - this readme and the repository that holds discussions - [@intergrav](https://github.com/intergrav)
