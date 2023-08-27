@@ -28,7 +28,7 @@ We're an organization that develops many popular Minecraft modding related proje
   - Maintainers: [@quatquatt](https://github.com/quatquatt)
 - [adrenaserver](https://github.com/skywardmc/adrenaserver)
   - Lightweight base for Fabric and Quilt servers designed to improve server-side performance
-  - Maintainers: [@intergrav](https://github.com/intergrav), [@getchoo](https://github.com/getchoo)
+  - Maintainers: [@getchoo](https://github.com/getchoo)
 - [threadtweak](https://github.com/skywardmc/threadtweak)
   - Improve and tweak Minecraft thread scheduling (again!)
   - Maintainers: [@getchoo](https://github.com/getchoo)
