@@ -10,6 +10,8 @@
     <a href="https://github.com/orgs/skywardmc/people">People</a>
     ·
     <a href="https://github.com/orgs/skywardmc/discussions">Discuss</a>
+    ·
+    <a href="https://discord.gg/36Tv44cYte">Discord</a>
   </p>
 </div>
 
