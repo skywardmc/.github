@@ -32,12 +32,12 @@ We're an organization that develops many popular Minecraft modding related proje
 - [threadtweak](https://github.com/skywardmc/threadtweak)
   - Improve and tweak Minecraft thread scheduling (again!)
   - Maintainers: [@getchoo](https://github.com/getchoo)
+- [hammer](https://github.com/skywardmc/hammer)
+  - Lightweight performance layer for Forge with no extra features attempting to make Minecraft as fast as possible
+  - Maintainers: [@WaffleIBOT](https://github.com/WaffleIBOT)
 - [additive-installer](https://github.com/skywardmc/additive-installer)
   - Standalone installer for Additive and Adrenaline
   - Maintainers: [@gaming32](https://github.com/gaming32)
-- [hammer](https://github.com/skywardmc/hammer)
-  - Lightweight performance layer for Forge with no extra features attempting to make Minecraft as fast as possible
-  - Maintainers: [looking for maintainers](https://github.com/skywardmc/hammer/issues/3)
 ### Other things
 - [additive-docs](https://github.com/skywardmc/additive-docs)
   - The website for Additive, including install instructions and more
