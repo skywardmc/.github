@@ -17,13 +17,31 @@ We're an organization that develops many popular Minecraft modding related proje
 
 ## Current repositories and maintainers
 ### Minecraft mods, modpacks, tools, etc
-- [adrenaline](https://github.com/skywardmc/adrenaline) - performance modpack - [@intergrav](https://github.com/intergrav)
-- [additive](https://github.com/skywardmc/additive) - OptiFine alternative modpack - [@intergrav](https://github.com/intergrav)
-- [deckcraft](https://github.com/skywardmc/deckcraft) - modpack designed for Valve's Steam Deck - [@intergrav](https://github.com/intergrav), looking for maintainers ([deckcraft#2](https://github.com/skywardmc/deckcraft/issues/2))
-- [adrenaserver](https://github.com/skywardmc/adrenaserver) - server-side performance modpack - [@intergrav](https://github.com/intergrav), [@getchoo](https://github.com/getchoo)
-- [threadtweak](https://github.com/skywardmc/threadtweak) - mod to improve and tweak thread scheduling - [@getchoo](https://github.com/getchoo)
-- [additive-installer](https://github.com/skywardmc/additive-installer) - standalone installer for Additive and Adrenaline - [@gaming32](https://github.com/gaming32)
+- [adrenaline](https://github.com/skywardmc/adrenaline)
+  - Lightweight performance layer with no extra features attempting to make Minecraft as fast as possible
+  - Maintainers: [@intergrav](https://github.com/intergrav)
+- [additive](https://github.com/skywardmc/additive)
+  - Simple and fast open-source OptiFine alternative for modern loaders based on Adrenaline
+  - Maintainers: [@intergrav](https://github.com/intergrav)
+- [deckcraft](https://github.com/skywardmc/deckcraft)
+  - A modpack specifically designed and tweaked to give a seamless out-of-box experience on the Steam Deck
+  - Maintainers: [deckcraft#2 "Looking for maintainers"](https://github.com/skywardmc/deckcraft/issues/2)
+- [adrenaserver](https://github.com/skywardmc/adrenaserver)
+  - Lightweight base for Fabric and Quilt servers designed to improve server-side performance
+  - Maintainers: [@intergrav](https://github.com/intergrav), [@getchoo](https://github.com/getchoo)
+- [threadtweak](https://github.com/skywardmc/threadtweak)
+  - Improve and tweak Minecraft thread scheduling (again!)
+  - Maintainers: [@getchoo](https://github.com/getchoo)
+- [additive-installer](https://github.com/skywardmc/additive-installer)
+  - Standalone installer for Additive and Adrenaline
+  - Maintainers: [@gaming32](https://github.com/gaming32)
 ### Other things
-- [additive-docs](https://github.com/skywardmc/additive-docs) - website for Additive - [@intergrav](https://github.com/intergrav)
-- [art](https://github.com/skywardmc/art) - branding assets for Skyward and it's projects - [@intergrav](https://github.com/intergrav)
-- [.github](https://github.com/skywardmc/.github) - this readme and the repository that holds discussions - [@intergrav](https://github.com/intergrav)
+- [additive-docs](https://github.com/skywardmc/additive-docs)
+  - The website for Additive, including install instructions and more
+  - Maintainers: [@intergrav](https://github.com/intergrav)
+- [art](https://github.com/skywardmc/art)
+  - Art for the SkywardMC organization and it's projects
+  - Maintainers: [@intergrav](https://github.com/intergrav)
+- [.github](https://github.com/skywardmc/.github)
+  - SkywardMC profile README and discussions repository 
+  - Maintainers: [@intergrav](https://github.com/intergrav)
