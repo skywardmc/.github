@@ -25,7 +25,7 @@ We're an organization that develops many popular Minecraft modding related proje
   - Maintainers: [@intergrav](https://github.com/intergrav)
 - [deckcraft](https://github.com/skywardmc/deckcraft)
   - A modpack specifically designed and tweaked to give a seamless out-of-box experience on the Steam Deck
-  - Maintainers: [deckcraft#2 "Looking for maintainers"](https://github.com/skywardmc/deckcraft/issues/2)
+  - Maintainers: [looking for maintainers](https://github.com/skywardmc/deckcraft/issues/2)
 - [adrenaserver](https://github.com/skywardmc/adrenaserver)
   - Lightweight base for Fabric and Quilt servers designed to improve server-side performance
   - Maintainers: [@intergrav](https://github.com/intergrav), [@getchoo](https://github.com/getchoo)
