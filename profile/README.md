@@ -20,22 +20,22 @@ We're an organization that develops many popular Minecraft modding related proje
 ## Current repositories and maintainers
 ### Minecraft mods, modpacks, tools, etc
 - [adrenaline](https://github.com/skywardmc/adrenaline)
-  - Lightweight performance layer with no extra features attempting to make Minecraft as fast as possible
+  - Leading, lightweight, and unbiased performance modpack with no QoL features
   - Maintainers: [@intergrav](https://github.com/intergrav)
 - [additive](https://github.com/skywardmc/additive)
-  - Simple and fast open-source OptiFine alternative for modern loaders based on Adrenaline
+  - Simple and fast open-source OptiFine alternative for modern loaders. Designed for players, content creators, and more
   - Maintainers: [@intergrav](https://github.com/intergrav)
 - [deckcraft](https://github.com/skywardmc/deckcraft)
-  - A modpack specifically designed and tweaked to give a seamless out-of-box experience on the Steam Deck
+  - Pre-configured modpack for Steam Deck players, with performance improvements and extra QoL
   - Maintainers: [@quatquatt](https://github.com/quatquatt)
 - [adrenaserver](https://github.com/skywardmc/adrenaserver)
-  - Lightweight base for Fabric and Quilt servers designed to improve server-side performance
+  - Lightweight and fast performance modpack for servers
   - Maintainers: [@getchoo](https://github.com/getchoo)
 - [threadtweak](https://github.com/skywardmc/threadtweak)
   - Improve and tweak Minecraft thread scheduling (again!)
   - Maintainers: [@getchoo](https://github.com/getchoo)
 - [hammer](https://github.com/skywardmc/hammer)
-  - Lightweight performance layer for Forge with no extra features attempting to make Minecraft as fast as possible
+  - Experimental performance modpack for Forge with no QoL features
   - Maintainers: [@WaffleIBOT](https://github.com/WaffleIBOT)
 - [additive-installer](https://github.com/skywardmc/additive-installer)
   - Standalone installer for Additive and Adrenaline
