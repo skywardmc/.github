@@ -31,6 +31,9 @@ We're an organization that develops many popular Minecraft modding related proje
 - [adrenaserver](https://github.com/skywardmc/adrenaserver)
   - Lightweight and fast performance modpack for servers
   - Maintainers: [@getchoo](https://github.com/getchoo)
+- [drill](https://github.com/skywardmc/drill)
+  - Fork of Additive attempting to get it running on Forge through Sinytra and Forge forks of mods
+  - Maintainers: [@MenacingPerson](https://github.com/MenacingPerson)
 - [threadtweak](https://github.com/skywardmc/threadtweak)
   - Improve and tweak Minecraft thread scheduling (again!)
   - Maintainers: [@getchoo](https://github.com/getchoo)
