@@ -27,7 +27,7 @@ We're an organization that develops many popular Minecraft modding related proje
   - Maintainers: [@intergrav](https://github.com/intergrav)
 - [deckcraft](https://github.com/skywardmc/deckcraft)
   - Pre-configured modpack for Steam Deck players, with performance improvements and extra QoL
-  - Maintainers: [@quatquatt](https://github.com/quatquatt)
+  - Maintainers: [@intergrav](https://github.com/intergrav), [@quatquatt](https://github.com/quatquatt)
 - [adrenaserver](https://github.com/skywardmc/adrenaserver)
   - Lightweight and fast performance modpack for servers
   - Maintainers: [@getchoo](https://github.com/getchoo)
