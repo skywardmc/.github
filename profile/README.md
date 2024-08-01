@@ -15,7 +15,7 @@
   </p>
 </div>
 
-We're an organization that develops many popular Minecraft modding related projects, including [Adrenaline](https://github.com/skywardmc/adrenaline), [Additive](https://github.com/skywardmc/additive), and more. There's more to come! For branding assets, see the [art](https://github.com/skyward/art) repository.
+We're an organization that develops many popular Minecraft modding related projects, including [Adrenaline](https://github.com/skywardmc/adrenaline), [Additive](https://github.com/skywardmc/additive), and more. There's more to come! For branding assets, see the [art](https://github.com/skywardmc/art) repository.
 
 ## Current repositories and maintainers
 ### Minecraft mods, modpacks, tools, etc
