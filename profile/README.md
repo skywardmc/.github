@@ -44,7 +44,7 @@ We're an organization that develops many popular Minecraft modding related proje
   - Standalone installer for Additive and Adrenaline
   - Maintainers: [@gaming32](https://github.com/gaming32)
 ### Other things
-- [website](https://github.com/skywardmc/website)
+- [skywardmc.org](https://github.com/skywardmc/skywardmc.org)
   - The website for SkywardMC, with pages on Adrenaline, Additive, and more
   - Maintainers: [@intergrav](https://github.com/intergrav)
 - [art](https://github.com/skywardmc/art)
