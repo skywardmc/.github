@@ -25,21 +25,15 @@ We're an organization that develops many popular Minecraft modding related proje
 - [additive](https://github.com/skywardmc/additive)
   - Simple and fast open-source OptiFine alternative for modern loaders. Designed for players, content creators, and more
   - Maintainers: [@intergrav](https://github.com/intergrav)
-- [deckcraft](https://github.com/skywardmc/deckcraft)
-  - Pre-configured modpack for Steam Deck players, with performance improvements and extra QoL
-  - Maintainers: [@intergrav](https://github.com/intergrav), [@quatquatt](https://github.com/quatquatt)
-- [adrenaserver](https://github.com/skywardmc/adrenaserver)
-  - Lightweight and fast performance modpack for servers
-  - Maintainers: [@getchoo](https://github.com/getchoo)
+- [hammer](https://github.com/skywardmc/hammer)
+  - Experimental performance modpack for Forge with no QoL features
+  - Maintainers: [@WaffleIBOT](https://github.com/WaffleIBOT)
 - [drill](https://github.com/skywardmc/drill)
   - Fork of Additive attempting to get it running on Forge through Sinytra and Forge forks of mods
   - Maintainers: [@MenacingPerson](https://github.com/MenacingPerson)
 - [threadtweak](https://github.com/skywardmc/threadtweak)
   - Improve and tweak Minecraft thread scheduling (again!)
   - Maintainers: [@getchoo](https://github.com/getchoo)
-- [hammer](https://github.com/skywardmc/hammer)
-  - Experimental performance modpack for Forge with no QoL features
-  - Maintainers: [@WaffleIBOT](https://github.com/WaffleIBOT)
 - [additive-installer](https://github.com/skywardmc/additive-installer)
   - Standalone installer for Additive and Adrenaline
   - Maintainers: [@gaming32](https://github.com/gaming32)
