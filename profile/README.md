@@ -1,5 +1,5 @@
 <div align=center>
-  <img alt="Banner for Skyward with logo and name" src="https://raw.githubusercontent.com/skywardmc/art/main/skyward/banner-styled.png">
+  <img alt="Banner for Skyward with logo and name" src="https://skywardmc.org/branding/skywardmc/card.png" height=256>
   <br />
   <br />
   <p align="center">
@@ -40,9 +40,6 @@ We're an organization that develops many popular Minecraft modding related proje
 ### Other things
 - [skywardmc.org](https://github.com/skywardmc/skywardmc.org)
   - The website for SkywardMC, with pages on Adrenaline, Additive, and more
-  - Maintainers: [@intergrav](https://github.com/intergrav)
-- [art](https://github.com/skywardmc/art)
-  - Art for the SkywardMC organization and it's projects
   - Maintainers: [@intergrav](https://github.com/intergrav)
 - [.github](https://github.com/skywardmc/.github)
   - SkywardMC profile README and discussions repository 
