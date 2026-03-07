@@ -31,12 +31,9 @@ We're an organization that develops many popular Minecraft modding related proje
 - [drill](https://github.com/skywardmc/drill)
   - Fork of Additive attempting to get it running on Forge through Sinytra and Forge forks of mods
   - Maintainers: [@MenacingPerson](https://github.com/MenacingPerson)
-- [threadtweak](https://github.com/skywardmc/threadtweak)
-  - Improve and tweak Minecraft thread scheduling (again!)
-  - Maintainers: [@getchoo](https://github.com/getchoo)
 - [additive-installer](https://github.com/skywardmc/additive-installer)
   - Standalone installer for Additive and Adrenaline
-  - Maintainers: [@gaming32](https://github.com/gaming32)
+  - Maintainers: [@gaming32](https://github.com/gaming32), [@intergrav](https://github.com/intergrav)
 ### Other things
 - [skywardmc.org](https://github.com/skywardmc/skywardmc.org)
   - The website for SkywardMC, with pages on Adrenaline, Additive, and more
