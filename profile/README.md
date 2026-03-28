@@ -20,16 +20,16 @@ We're an organization that develops many popular Minecraft modding related proje
 ## Current repositories and maintainers
 ### Minecraft mods, modpacks, tools, etc
 - [adrenaline](https://github.com/skywardmc/adrenaline)
-  - Leading, lightweight, and unbiased performance modpack with no QoL features
+  - A lightweight, open-source performance modpack for Fabric
   - Maintainers: [@intergrav](https://github.com/intergrav)
 - [additive](https://github.com/skywardmc/additive)
-  - Simple and fast open-source OptiFine alternative for modern loaders. Designed for players, content creators, and more
+  - A modern, open-source alternative to OptiFine for Fabric
   - Maintainers: [@intergrav](https://github.com/intergrav)
 - [hammer](https://github.com/skywardmc/hammer)
-  - Experimental performance modpack for Forge with no QoL features
+  - A lightweight, open-source performance modpack for NeoForge
   - Maintainers: [@WaffleIBOT](https://github.com/WaffleIBOT)
 - [drill](https://github.com/skywardmc/drill)
-  - Fork of Additive attempting to get it running on Forge through Sinytra and Forge forks of mods
+  - A modern, open-source alternative to OptiFine for NeoForge
   - Maintainers: [@MenacingPerson](https://github.com/MenacingPerson)
 - [additive-installer](https://github.com/skywardmc/additive-installer)
   - Standalone installer for Additive and Adrenaline
