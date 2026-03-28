@@ -30,7 +30,7 @@ We're an organization that develops many popular Minecraft modding related proje
   - Maintainers: [@WaffleIBOT](https://github.com/WaffleIBOT)
 - [drill](https://github.com/skywardmc/drill)
   - A modern, open-source alternative to OptiFine for NeoForge
-  - Maintainers: [@MenacingPerson](https://github.com/MenacingPerson)
+  - Maintainers: [@omo50](https://github.com/omo50), [@MenacingPerson](https://github.com/MenacingPerson)
 - [additive-installer](https://github.com/skywardmc/additive-installer)
   - Standalone installer for Additive and Adrenaline
   - Maintainers: [@gaming32](https://github.com/gaming32), [@intergrav](https://github.com/intergrav)
